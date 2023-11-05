@@ -1,0 +1,78 @@
+<resources>
+    <!-- Nombres simples -->
+    <string name="app_name">VibePam</string>
+    <string name="error">ERROR</string>
+    <string name="campoVacio">Alguno de los campos esta vacio</string>
+    <string name="elecAnonimo">Has elegido el modo anónimo, redirigiendo a la página principal</string>
+    <string name="prueba">Prueba</string>
+    <string name="eleg">Has elegido </string>
+    <string name="cambioIdioma">Cambia a Ingles</string>
+    <string name="aviso">AVISO</string>
+    <string name="resena">Reseña</string>
+    <string name="puntuacion">Puntuacion</string>
+    <string name="fecha">Fecha</string>
+
+    <!-- Botones -->
+    <string name="registro">Registrarse</string>
+    <string name="inicio">Inicio Sesion</string>
+    <string name="anonimo">Modo Anonimo</string>
+    <string name="atras">Atras</string>
+    <string name="guardaReseña">Guardar Reseña</string>
+    <string name="cambiaContra">Cambiar Contraseña</string>
+    <string name="eliminarUsu">Eliminar Usuario</string>
+    <string name="confirmar">Confirmar</string>
+
+    <!-- Reseñas -->
+    <string name="escribirReseña">Escribe aqui tu reseña</string>
+    <string name="reseñaVacia">Por favor, introduce algo en el campo de la reseña</string>
+    <string name="anadirResena">Añadir Reseña</string>
+    <string name="mostrarResenas">Mostrar ultimas reseñas</string>
+
+    <!-- Inputs cuenta -->
+    <string name="correo">Correo</string>
+    <string name="contra">Contraseña</string>
+    <string name="escContra">Escribe tu nueva contraseña</string>
+    <string name="escContraNuevo">Escribe de nuevo tu nueva contraseña</string>
+    <string name="errorRegistro">Error al registrar el usuario</string>
+    <string name="inicioCorrecto">Inicio de sesión correcto, redirigiendo a la pagina principal</string>
+    <string name="usuarioElim">Usuario Eliminado</string>
+    <string name="errorUsuarioElim">Error al eliminar el usuario</string>
+    <string name="errorInicio">"Error, asegúrate de que hayas escrito correctamente tu correo o contraseña."</string>
+    <string name="errorContraConciden">Las contraseñas no coinciden, por favor introduzca la misma en los 2 campos.</string>
+    <string name="inicioNecesario">Para poder acceder a este apartado inicia sesión primero</string>
+    <string name="errorContra">La contraseña debe tener al menos 6 caracteres</string>
+
+    <!-- Informacion -->
+    <string name="quienSom">Quienes Somos:</string>
+    <string name="quienSomText1">Nos dedicamos a la gestión de documentación y manejo de redes, proveyendo varios servicios: </string>
+    <string name="quienSomText2">Planificación de eventos, servicio de formación en orientación laboral e integración cultural, administración de redes sociales y asesoramiento en marketing.</string>
+    <string name="nuestraMision">Sobre Nosotros:</string>
+    <string name="nuestraMisionText1">Nuestra misión es la de proporcionar servicios de alta calidad que permitan a las empresas destacarse en un mercado global altamente competitivo.</string>
+    <string name="nuestraMisionText2">Nuestro objetivo es convertirnos en el aliado estratégico de las empresas en el mundo empresarial actual, brindando servicios de organización de eventos y soluciones integrales de atención al cliente y formación.</string>
+    <string name="nuestraMisionText3">En VIBEPAM Enterprise Solutions creemos en la importancia de fomentar la diversidad, la inclusión y el crecimiento profesional en todas las organizaciones.</string>
+    <string name="localizacion">Ubicacion:</string>
+    <string name="localizacionText1">Nuestra sede se encuentra ubicada en Bilbao, Av. Juan Antonio Zunzunegui nº 7,segunda planta.</string>
+    <string name="localizacionText2">Se encuentra a 100 metros de la Intermodal, que reúne autobús, metro, cercanías y tranvía.</string>
+
+    <!-- Menu -->
+    <string name="redesSociales">Redes Sociales</string>
+    <string name="citas">Citas</string>
+    <string name="reseñas">Reseñas</string>
+    <string name="ajustes">Ajustes de Usuario</string>
+    <string name="info">Informacion sobre nosotros</string>
+    <string name="titulo">Menu Principal</string>
+    <string name="servicio">Seleccione un servicio</string>
+
+    <!-- Citas -->
+    <string name="catering">Servicio de Catering</string>
+    <string name="transporte">Servicio de Transporte</string>
+    <string name="multi">Atencion Multilingüe</string>
+    <string name="orientacion">Orientacion Laboral</string>
+    <string name="integracion">Integracion Cultural</string>
+    <string name="mostrarCitas">Ver mis citas</string>
+    <string name="misCitas">Mis Citas</string>
+    <string name="pulsaCitas">Pulsa dos veces para mostrar las citas</string>
+    <string name="fechaMostrar">Pulse para mostrar las fechas disponibles</string>
+    <string name="motivo">Motivo de la cita</string>
+
+</resources>

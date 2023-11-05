@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/minilogo"
+        android:label="VibePam"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".VerCitas"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".InfoEmpresa"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MostrarResena"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ObjetoResena"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditarUsuario"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AjustesUsuario"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Reseñas"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Citas"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".RedesSociales"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MenuPrincipal"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Registro"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AtencionMultilingue"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IntegracionCultural"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OrientacionLaboral"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ServicioCatering"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ServicioTransporte"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Login"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

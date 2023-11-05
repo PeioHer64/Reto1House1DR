@@ -1,0 +1,79 @@
+<resources>
+    <!-- Nombres simples -->
+    <string name="app_name">VibePam</string>
+    <string name="error">ERROR</string>
+    <string name="campoVacio">Some of the fields are empty</string>
+    <string name="elecAnonimo">You chose Anonymous Mode, redirecting to the main page</string>
+    <string name="prueba">Trial</string>
+    <string name="eleg">You have chosen </string>
+    <string name="cambioIdioma" >Change to Spanish</string>
+    <string name="aviso">WARNING</string>
+    <string name="resena">Review</string>
+    <string name="puntuacion">Punctuation</string>
+    <string name="fecha">Date</string>
+
+    <!-- Botones -->
+    <string name="registro">Sign In</string>
+    <string name="inicio">Log In</string>
+    <string name="anonimo">Anonymous Mode</string>
+    <string name="atras">Return</string>
+    <string name="guardaReseña">Save Review</string>
+    <string name="cambiaContra">Change Password</string>
+    <string name="eliminarUsu">Delete User</string>
+    <string name="confirmar">Confirm</string>
+
+    <!-- Reseñas -->
+    <string name="escribirReseña">Write here the review</string>
+    <string name="reseñaVacia">Please, introduce something on the field</string>
+    <string name="anadirResena">Add Review</string>
+    <string name="mostrarResenas">Show Last Reviews</string>
+
+    <!-- Inputs Cuenta -->
+    <string name="correo">Email</string>
+    <string name="contra">Password</string>
+    <string name="escContra">Write your new password</string>
+    <string name="escContraNuevo">Write again your new password</string>
+    <string name="errorRegistro">Error registering the user</string>
+    <string name="inicioCorrecto">Successful login, redirecting to the main page</string>
+    <string name="usuarioElim">User Eliminate</string>
+    <string name="errorUsuarioElim">Error eliminating the user</string>
+    <string name="errorInicio">"Error, make sure you have entered your email or password correctly."</string>
+    <string name="errorContraConciden">The password does not match, please introduce the same on the fields.</string>
+    <string name="inicioNecesario">Log in firs to access to the section</string>
+    <string name="errorContra">The password must have at least 6 characters</string>
+
+    <!-- Informacion -->
+    <string name="quienSom">Who are we:</string>
+    <string name="quienSomText1"> We dedicate ourselves to the management of documentation and network management, proving some services:</string>
+    <string name="quienSomText2">Event planning, cultural integration and career orientation training, social network administration and marketing advice.</string>
+    <string name="nuestraMision">About Us:</string>
+    <string name="nuestraMisionText1">Our mission is to provide high-quality services that allow companies to stand out in a highly competitive global market.</string>
+    <string name="nuestraMisionText2">Our goal is to become the strategic ally of companies in nowadays business world, providing event organization services and comprehensive customer service and training solutions.</string>
+    <string name="nuestraMisionText3">In VIBEPAM we believe in the value of foment the diversity, inclusion and professional development in all the organizations.</string>
+    <string name="localizacion">Location:</string>
+    <string name="localizacionText1">Our headquarters are in Bilbao, Juan Antonio Zunzunegui street nº7, second floor.</string>
+    <string name="localizacionText2">It is found 100m away from Intermodal, that gather bus, metro, train and trolley car.</string>
+
+    <!-- Menu -->
+    <string name="redesSociales">Social Network</string>
+    <string name="citas">Dates</string>
+    <string name="reseñas">Reviews</string>
+    <string name="ajustes">User Settings</string>
+    <string name="info">Information about us</string>
+    <string name="titulo">Main Menu</string>
+    <string name="servicio">Choose a service</string>
+
+    <!-- Citas -->
+    <string name="catering">Catering service</string>
+    <string name="transporte">Transport service</string>
+    <string name="multi">Multilingual attention</string>
+    <string name="mostrarCitas">Look at the appointments</string>
+    <string name="misCitas">My Appointments</string>
+    <string name="pulsaCitas">Tap two times to see the appointments</string>
+    <string name="orientacion">Labor Orientation</string>
+    <string name="integracion">Cultural Integration</string>
+
+    <string name="fechaMostrar">Press to show the available dates</string>
+    <string name="motivo">Reason for appointment</string>
+
+</resources>
